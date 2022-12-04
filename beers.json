@@ -1,0 +1,26 @@
+[
+  {
+    "alcohol_percentage": 4.5,
+    "date": "2022-12-01",
+    "name": "Cold Front",
+    "notes": "The vanilla not really my thing, Vienna style IPA nice though",
+    "rating": 2,
+    "type": "Vienna Style Lager"
+  },
+  {
+    "alcohol_percentage": 7.0,
+    "date": "2022-12-02",
+    "name": "Mail Order Martian",
+    "notes": "No not great",
+    "rating": 1,
+    "type": "Milkshake IPA"
+  },
+  {
+    "alcohol_percentage": 6.5,
+    "date": "2022-12-03",
+    "name": "Elvis Juice",
+    "notes": "Nice, a little too sour though",
+    "rating": 3,
+    "type": "Grapefruit Infused IPA"
+  }
+]
