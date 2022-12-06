@@ -30,5 +30,13 @@
     "notes": "Very nice, there main beer I suppose",
     "rating": 4,
     "beer_type": "IPA"
+  },
+  {
+    "alcohol_percentage": 4.7,
+    "date": "2022-12-05",
+    "name": "Cold Beer",
+    "notes": "Light colour, light taste, lager",
+    "rating": 4,
+    "beer_type": "Cold Pale IPA"
   }
 ]
