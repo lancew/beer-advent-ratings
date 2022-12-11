@@ -38,5 +38,46 @@
     "notes": "Light colour, light taste, lager",
     "rating": 4,
     "beer_type": "Cold Pale IPA"
-  }
+  },
+  {
+    "alcohol_percentage": 4.0,
+    "date": "2022-12-06",
+    "name": "Planet Pale Ale",
+    "notes": "Very drinkable",
+    "rating": 3,
+    "beer_type": "Easy Pale Ale"
+  },
+  {
+    "alcohol_percentage": 5.0,
+    "date": "2022-12-07",
+    "name": "Hazy Helles",
+    "notes": "Nice light lager, a little fuity",
+    "rating": 4,
+    "beer_type": "New England Lager"
+  }, 
+  {
+    "alcohol_percentage": 6.0,
+    "date": "2022-12-08",
+    "name": "Candied Kittens",
+    "notes": "Not for me, tastes like candy which is OK if you like it",
+    "rating": 2,
+    "beer_type": "Raspberry & Guava New ENgland IPA"
+  }, 
+  {
+    "alcohol_percentage": 7.2,
+    "date": "2022-12-09",
+    "name": "Double Hazy",
+    "notes": "Nice, very nice",
+    "rating": 4,
+    "beer_type": "New England IPA"
+  }, 
+  {
+    "alcohol_percentage": 7.4,
+    "date": "2022-12-10",
+    "name": "Albino Squid Assasin",
+    "notes": "Another winner, Dark ale",
+    "rating": 4,
+    "beer_type": "Red Rye IPA"
+  } 
+
 ]
